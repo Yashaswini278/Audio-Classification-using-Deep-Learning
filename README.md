@@ -5,3 +5,11 @@ The objective of this project was to classify environmental sounds from the Urba
 
 ## Visualizing Processed log Mel Spectrograms of Waveforms 
 ![visualize_mel_spec](https://github.com/Yashaswini278/Audio-Classification-using-Deep-Learning/assets/77488107/0c5672f3-93e2-4470-b462-89747425c4bd)
+
+## Train-Val Loss Curves
+![train_test_loss](https://github.com/Yashaswini278/Audio-Classification-using-Deep-Learning/assets/77488107/07d0900c-8d94-490a-b0e3-c476bf04b6ff)
+
+## Confusion Matrix
+![confusion_matrix](https://github.com/Yashaswini278/Audio-Classification-using-Deep-Learning/assets/77488107/ece47c82-c9a5-45c7-b5a6-1c5c8d48d13b)
+
+
