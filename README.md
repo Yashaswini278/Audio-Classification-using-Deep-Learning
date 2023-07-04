@@ -11,7 +11,7 @@ Log mel spectrograms of raw audio files were obtained using the following prepro
 Out of total 8732 samples, 5589 samples were used for training, 1397 samples were used for validation and 1746 samples were used for testing. 
 After every epoch, train accuracy and validation accuracy was calculated. This was done to improve generalization of the model. After training for 25 epochs, the model was tested using the test set. 
 <br>A CNN model was used to classify environmental sounds using the log mel spectrograms. 
-![image](https://github.com/Yashaswini278/Audio-Classification-using-Deep-Learning/assets/77488107/1ea6e4e7-dcf0-4c0a-aa88-7b49431f14e2)
+![model](images/model.png)
 ## Evaluation Metrics Used 
 Accuracy was used to evaluate the model as the data was balanced. 
 ## Results 
