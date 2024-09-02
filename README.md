@@ -1,5 +1,7 @@
 # Audio-Classification-using-Deep-Learning
 The objective of this project was to classify environmental sounds from the UrbanSounds8K dataset into 10 categories - air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren, and street_music.  
+## Dataset
+Download UrbanSounds8K dataset from kaggle : https://www.kaggle.com/datasets/chrisfilo/urbansound8k
 ## How to run this code 
 Arguments : <br> 
 * annotations path
