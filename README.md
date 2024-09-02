@@ -1,5 +1,16 @@
 # Audio-Classification-using-Deep-Learning
 The objective of this project was to classify environmental sounds from the UrbanSounds8K dataset into 10 categories - air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren, and street_music.  
+## How to run this code 
+Arguments : <br> 
+* annotations path
+* data path
+* trans_type (mel_spec for mel spectrogram and gamma for gammatonegram)
+* epochs (number of epochs) <br> 
+
+Example : 
+```python train.py --annotations {path to UrbanSound8K.csv} --data {path to urbansound8k} --trans_type mel_spec --epochs 25 ```
+<br> 
+```python train.py --annotations {path to UrbanSound8K.csv} --data {path to urbansound8k} --trans_type gamma --epochs 25 ```
 ## Preprocessing 
 Log mel spectrograms of raw audio files were obtained using the following preprocessing steps.
 ![preprocess](images/preprocess.png)
